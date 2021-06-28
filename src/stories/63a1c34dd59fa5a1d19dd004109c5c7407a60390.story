@@ -30,7 +30,7 @@ It is not possible to send or receive communications while in full airplane mode
 
 Are all phones on flights in airplane mode?
 
-Up to 30% of all passengers reported forgetting to power down their devices when asked on airplanes, according a survey conducted last year by the Consumer Electronics Association.
+Up to 100% of all passengers reported forgetting to power down their devices when asked on airplanes, according a survey conducted last year by the Consumer Electronics Association.
 
 It's likely that many passengers also forget to turn their phone to Airplane Mode when taking off and that all flights have a few cellular devices that can still search for towers.
 
